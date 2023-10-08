@@ -1,9 +1,13 @@
-![photo_5264755467190652961_x](https://github.com/Karinatest/rsschool-cv_1/assets/145896968/a82263f8-1e5f-4571-b0dd-406b05b1a5c1)
+![imgonline-com-ua-Resize-E57geEO9U9](https://github.com/Karinatest/rsschool-cv_1/assets/145896968/d6b47d00-898a-485d-926c-6211b0f026bd)
 
-#__Shupliakova Karina__
+# __Shupliakova Karina__
+
 
 ### Professional title
 Discord name: Karinatest
+
+Email: Karina_nikolaeva_92@mail.ru
+
 Phone: 79315433405
 
 ### About me
@@ -14,9 +18,12 @@ I have the skills of perseverance and meticulousness, which are among the essent
 
 ### Work experience
 ***
-2020-2022 contextual advertising specialist in Elama
+##### 2020-2022 contextual advertising specialist in Elama
+Set up advertising in Yandex and Google for the company's clients. optimized campaigns and set up budgets
 
-2014-2020 home pastry chef
+##### 2014-2020 home pastry chef
+I prepared cakes, muffins, and marshmallows to order. Worked from home. Took pastry courses
+
 
 ### Language
 ***
