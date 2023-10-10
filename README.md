@@ -1,2 +1,2 @@
-# rsschool-cv_1
+# rsschool-cv
 новый репозиторий
