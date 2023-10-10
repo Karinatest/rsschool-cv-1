@@ -3,4 +3,5 @@
 
 https://github.com/Karinatest/rsschool-cv_1/blob/gh-pages/cv.md
 
-https://Karinatest.github.io/rsschool-cv/
+https://Karinatest.github.io/rsschool-cv_1
+
