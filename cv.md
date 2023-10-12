@@ -16,8 +16,9 @@ I have a higher economic education. For the last couple of years, I have worked 
 At some point I realized that it was time to change my field of activity and took retraining courses to become a tester. During the training, I understood the further vector for development, that is, front-end development.
 I have the skills of perseverance and meticulousness, which are among the essential qualities of an effective employee. I am currently training to be a front-end developer.
 
-### Work experience
+### Experience
 ***
+
 ##### 2020-2022 contextual advertising specialist in Elama
 Set up advertising in Yandex and Google for the company's clients. optimized campaigns and set up budgets
 
